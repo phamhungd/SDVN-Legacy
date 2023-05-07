@@ -1,0 +1,5 @@
+masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality,
+
+Negative prompt: watermark,text, logo,contact, error, blurry, cropped, username, artist name, (worst quality, low quality:1.4),
+((bad anatomy)), ((extra limbs)),big face, big body, big eyes, short girl,hand, finger, dude
+Steps: 32, Sampler: UniPC, CFG scale: 7.5, Size: 540x960, Model hash: d3976436e9, Model: Model_SDVN-Real-v2, Denoising strength: 0.5, Hires upscale: 2, Hires steps: 10, Hires upscaler: 4x-UltraSharp, Clip skip: 2
